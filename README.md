@@ -1,3 +1,3 @@
-# estruturas
+# Estruturas
 
 Estruturas genéricas em c.
